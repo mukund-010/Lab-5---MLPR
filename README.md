@@ -10,7 +10,11 @@ My conclusion from this lab is that K means clustering is an effective way of cl
 The libraries I used were OpenCV, Numpy, Matplotlib and Scikit-learn. All the coding was done in python.
 
 The below image was my first output image. Each face in the picture was detected and highlighted with a square, with the message "A Face" above it.
+
+
 <img width="1274" height="843" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/10bf17c1-3595-4924-9566-35c5274e47b5" />
 
 The other image output I had is the image of Shashi Tharoor with a box around his face. Again the algorithm was able to detect his face and then highlight it.
+
+
 <img width="499" height="491" alt="Face detected" src="https://github.com/user-attachments/assets/ec8c185d-b8a6-409c-b80b-cc6e6e3c1261" />
