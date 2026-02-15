@@ -18,3 +18,6 @@ The other image output I had is the image of Shashi Tharoor with a box around hi
 
 
 <img width="499" height="491" alt="Face detected" src="https://github.com/user-attachments/assets/ec8c185d-b8a6-409c-b80b-cc6e6e3c1261" />
+
+
+The graphs of the K means clustering is shown in the ipynb file.
